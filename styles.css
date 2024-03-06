@@ -6,15 +6,16 @@
 .main-container{
 	background-color:;
 	padding:4px;
+	background-color:white;
 	
 }
-.testimonial-0{
+.testimonial0{
 	border:1px solid black;
 background-color:white;
 	padding:10px;
 }
 
-.testimonial-1{
+.testimonial1{
 	border:1px solid black;
 	padding:10px;
 	background-color:white;
